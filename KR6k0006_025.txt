@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:39:23.484173
+#+DATE: 2015-08-30 20:39:40.009244
 #+TITLE: 摩訶僧祇律
 #+PROPERTY: CBETA_ID T22n1425
 #+PROPERTY: ID KR6k0006
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 22, No. 1425
 #+PROPERTY: VOL 22
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0006_T_025-0427a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 25
 ¶
 ¶
-
- 《摩訶僧祇律》卷第二十五¶
+《摩訶僧祇律》卷第二十五¶
 ¶
 東晉天竺三藏佛陀跋陀羅¶
 共法顯譯¶
@@ -216,8 +215,7 @@
 深摩如尊者跋陀梨。如王舍城比丘尼。如是¶
 比向佛悔過。是名阿遮與。偷蘭遮者。盜減¶
 五錢動五錢物不離地。是名偷蘭遮。醜偷蘭¶
-者。染污心弄身生。是名醜偷蘭。不作者。和¶
-上阿闍梨語作是事。共法中應作。若不作¶
+者。染污心弄身生。是名醜偷蘭。不作者。和上阿闍梨語作是事。共法中應作。若不作¶
 者。越毘尼罪。若語喚婦人來取酒來。應語¶
 和上。阿闍梨我聞法中不得作。是名不作。¶
 不語者。和上阿闍梨共語聞而不報者。越¶
